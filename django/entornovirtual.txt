@@ -12,6 +12,10 @@ pip install django
 o con python
 python -m venv entvirt
 
+---correr env
+ .\env\Scripts\activate   
+  
+
 
 
 --para conectarse a bd pgsql
